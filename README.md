@@ -41,7 +41,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@ejazarch] - feel free to contact me!
+Created by @ejazarch - feel free to contact me!
 
 
 <!-- Optional -->
