@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Consumer Finance Company has collected the data for years 2007-2011 for the loans that they had given to various borrowers. They would like to analyze the data and understand the pattern or factors/variables which can help them identify the loan defaulters and reduce the business loss.
+> Consumer Finance Company has collected the loan data from years 2007-2011 which they had given to various borrowers. They would like to analyze the data and understand the pattern or factors/variables which can help them identify the loan defaulters and reduce the business loss.
 
 
 ## Table of Contents
